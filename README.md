@@ -2,7 +2,7 @@
 This is a case study based mini project which uses a restaurant's data to gain insights of the customers' visiting patterns, their most liked dishes, monthly visits etc. 
 
 
-<h1>Case Study 1: Danny's Dinner</h1> 
+<h3>Case Study 1: Danny's Dinner</h3> 
 
 ![127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459](https://user-images.githubusercontent.com/100195347/174039639-31b7991d-53b0-4cb7-b7c4-2048915578c8.png)
 
