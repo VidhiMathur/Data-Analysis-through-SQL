@@ -10,6 +10,7 @@ join menu m
 on s.product_id=m.product_id) t1
 group by t1.customer_id;
 
+
 2. How many days has each customer visited the restaurant?
 
 select customer_id,count(distinct(order_date))
